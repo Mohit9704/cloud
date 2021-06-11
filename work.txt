@@ -3,6 +3,8 @@ home work
 slot b 
 compiling work
 slot c
+github tutorial
+
 
 
 
